@@ -8,3 +8,6 @@ Jupyter Notebook is added which contains the process and results of the prelimin
 
 # Poster:
 Poster added.
+
+# Poster, pptx file:
+Recommended changes applied. Updated poster is added in powerpoint format.
