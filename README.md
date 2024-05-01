@@ -15,3 +15,6 @@ pptx added: Recommended changes applied. Updated poster is added in powerpoint f
 # Final Model Files:
 Final model is same model as preliminary (RF).
 Other notebooks are included which contain my examination of other models, however none of them outperformed the original RF.
+
+# Final Presentation:
+Final powerpoint presentation is added to Final Model Files folder.
